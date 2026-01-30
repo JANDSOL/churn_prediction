@@ -1,4 +1,4 @@
-# Prediction of Customer Abandonment (Churn) 📉
+# Prediction of Customer Abandonment (Churn prediction) 📉
 
 ## General specifications 📄
 
